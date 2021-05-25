@@ -1,4 +1,4 @@
-https://www.hackerrank.com/challenges/30-class-vs-instance/problem
+# https://www.hackerrank.com/challenges/30-class-vs-instance/problem
 
 class Person:
     def __init__(self, initialAge):
